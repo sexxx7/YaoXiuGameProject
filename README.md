@@ -1,2 +1,3 @@
 # YaoXiuGameProject
 用于展示瑶绣小游戏的项目文件
+包含了项目文件的unityPackage、游戏运行程序、游戏实机演示视频
